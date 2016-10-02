@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="liuyuqing-study" default="show" basedir=".">
+
+	<target name="show">
+	    <echo message="${basedir}"/>
+	</target>
+	
+	<target name="backup-project">
+	    <copy todir="c:/work/liuyuqing/liulangf-java">
+            <fileset dir="${basedir}"/>
+        </copy>
+	</target>
+</project>
