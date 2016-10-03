@@ -1,0 +1,8 @@
+*.sublime-project
+.*.eclipse
+.*.settings
+.*.classpath
+.*.project
+target
+bin
+liulangf-ubuntu.sublime-workspace
