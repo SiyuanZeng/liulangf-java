@@ -10,16 +10,16 @@
 	<url>http://www.liuyuqing.com/liulangf/</url>
 	<modules>
 		<module>liulangf-core</module>
-		<module>liulangf-xml</module>
 		<module>liulangf-test</module>
-		<module>liulangf-web</module>
 		<module>liulangf-pattern</module>
+		<module>liulangf-thread</module>
+		<module>liulangf-java8</module>
+<!-- 		<module>liulangf-xml</module>
+		<module>liulangf-web</module>
 		<module>liulangf-ws</module>
 		<module>liulangf-jdbc</module>
-		<module>liulangf-thread</module>
 		<module>liulangf-helloworld</module>
-		<module>liulangf-java8</module>
-	</modules>
+ -->	</modules>
 	<build>
 		<plugins>
 			<plugin>
@@ -116,12 +116,12 @@
 			<version>${jmock.version}</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
+<!-- 		<dependency>
 			<groupId>org.easytesting</groupId>
 			<artifactId>fest-assert-core</artifactId>
 			<version>2.0M3</version>
 			<scope>test</scope>
-		</dependency>
+		</dependency> -->
 
 		<!-- slf4j logging config -->
 		<dependency>
