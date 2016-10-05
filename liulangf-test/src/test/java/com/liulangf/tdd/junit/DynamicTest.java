@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import org.fest.util.Strings;
 import org.junit.Before;
 import org.junit.Test;
 import org.slf4j.Logger;

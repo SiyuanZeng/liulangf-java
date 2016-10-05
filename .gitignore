@@ -3,6 +3,9 @@
 .*.settings
 .*.classpath
 .*.project
+.settings
+.project
+.classpath
 target
 bin
 liulangf-ubuntu.sublime-workspace
