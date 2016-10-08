@@ -119,11 +119,11 @@
 			<version>1.2</version>
 		</dependency>
 
-		<dependency>
+<!-- 		<dependency>
 			<groupId>com.netflix.rxjava</groupId>
 			<artifactId>rxjava-core</artifactId>
 			<version>0.17.4</version>
-		</dependency>
+		</dependency> -->
 
 	</dependencies>
 	<properties>

@@ -9,7 +9,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>liulangf-java8</artifactId>
 	<packaging>jar</packaging>
-	<name>liulangf java7</name>
+	<name>liulangf java8</name>
 
 	<build>
 		<plugins>
@@ -66,17 +66,15 @@
 			<artifactId>javax.json-api</artifactId>
 			<version>1.0</version>
 		</dependency>
-
 		<dependency>
 			<groupId>org.glassfish</groupId>
 			<artifactId>javax.json</artifactId>
 			<version>1.0.4</version>
 		</dependency>
-
 		<dependency>
 			<groupId>io.reactivex</groupId>
 			<artifactId>rxjava</artifactId>
-			<version>1.0.14</version>
+			<version>1.2.1</version>
 		</dependency>
 
 		<dependency>

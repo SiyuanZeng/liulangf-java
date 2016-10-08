@@ -6,12 +6,11 @@ import java.util.Map;
 import javax.json.Json;
 import javax.json.stream.JsonGenerator;
 import javax.json.stream.JsonGeneratorFactory;
-
 import org.junit.Test;
 
 public class JsonpTest {
 
-	@Test
+    @Test
 	public void test() {
 		Map<String, Object> properties = new HashMap<String, Object>(1);
 		properties.put(JsonGenerator.PRETTY_PRINTING, true);

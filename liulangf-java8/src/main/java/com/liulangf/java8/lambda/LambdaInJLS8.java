@@ -21,7 +21,7 @@ public class LambdaInJLS8 {
 	void helloLambda() {
 		$(() -> {});
 		//$(t -> {});
-		$(() -> 8);
+		//$(() -> 8);
 	}
 
 	<T extends A> void $(T a) {
