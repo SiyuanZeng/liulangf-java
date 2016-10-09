@@ -1,9 +1,3 @@
-/**
-* 版权所有:(C)2001-2012 北京中油瑞飞信息技术有限责任公司
-* Author : 刘余庆
-* Creation time : 2012-11-6 下午3:42:47
-* Description :
-*/
 package com.liulangf.thread.pool.ebus;
 
 import java.util.concurrent.ThreadFactory;

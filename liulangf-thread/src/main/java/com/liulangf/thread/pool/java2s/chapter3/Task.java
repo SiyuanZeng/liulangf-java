@@ -1,9 +1,3 @@
-/**
-* 版权所有:(C)2001-2012 北京中油瑞飞信息技术有限责任公司
-* Author : 刘余庆
-* Creation time : 2012-10-30 下午4:36:02
-* Description :
-*/
 package com.liulangf.thread.pool.java2s.chapter3;
 
 import java.text.DateFormat;
