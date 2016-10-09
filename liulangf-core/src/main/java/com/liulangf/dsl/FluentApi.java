@@ -1,9 +1,3 @@
-/*************************************************************************
-* Copyright (c) 2006-2011 CNPC Beijing Richfit Information Technology Co.,LTD.
-* All Rights Reserved.
-*
-*************************************************************************/
-
 package com.liulangf.dsl;
 
 import static com.liulangf.dsl.TableCell.TableCellBuilder.row;
